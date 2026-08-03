@@ -125,6 +125,12 @@ async function registerUser() {
         alert("Please fill in all fields.");
         return;
     }
+    //Check if email is an email
+    function isValidEmail(email) {const emailPattern =/^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+    return emailPattern.test(email);}
+    if (!isValidEmail(email)) {
+    alert("Please enter a valid email address.");
+    return;}
     // Username must contain at least 5 characters
     if (name.length < 5) {
         alert("Username must be at least 5 characters long.");
