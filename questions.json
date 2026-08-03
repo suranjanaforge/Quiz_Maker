@@ -1,0 +1,542 @@
+[
+  {
+    "Subject": "Math",
+    "Question": "What is 2 + 2?",
+    "Option1": "1",
+    "Option2": "2",
+    "Option3": "4",
+    "Option4": "5",
+    "Answer": "4"
+  },
+  {
+    "Subject": "Math",
+    "Question": "What is 10 \u00d7 5?",
+    "Option1": "40",
+    "Option2": "45",
+    "Option3": "50",
+    "Option4": "55",
+    "Answer": "50"
+  },
+  {
+    "Subject": "Math",
+    "Question": "Square root of 81?",
+    "Option1": "7",
+    "Option2": "8",
+    "Option3": "9",
+    "Option4": "10",
+    "Answer": "9"
+  },
+  {
+    "Subject": "Math",
+    "Question": "15 - 7 = ?",
+    "Option1": "6",
+    "Option2": "7",
+    "Option3": "8",
+    "Option4": "9",
+    "Answer": "8"
+  },
+  {
+    "Subject": "Math",
+    "Question": "What is 12 / 3?",
+    "Option1": "2",
+    "Option2": "3",
+    "Option3": "4",
+    "Option4": "5",
+    "Answer": "4"
+  },
+  {
+    "Subject": "Math",
+    "Question": "Pi is approximately?",
+    "Option1": "2.14",
+    "Option2": "3.14",
+    "Option3": "4.13",
+    "Option4": "3.41",
+    "Answer": "3.14"
+  },
+  {
+    "Subject": "Math",
+    "Question": "5\u00b2 = ?",
+    "Option1": "10",
+    "Option2": "20",
+    "Option3": "25",
+    "Option4": "30",
+    "Answer": "25"
+  },
+  {
+    "Subject": "Math",
+    "Question": "100 \u00f7 25 = ?",
+    "Option1": "2",
+    "Option2": "3",
+    "Option3": "4",
+    "Option4": "5",
+    "Answer": "4"
+  },
+  {
+    "Subject": "Math",
+    "Question": "LCM of 4 and 6?",
+    "Option1": "8",
+    "Option2": "10",
+    "Option3": "12",
+    "Option4": "16",
+    "Answer": "12"
+  },
+  {
+    "Subject": "Math",
+    "Question": "7 \u00d7 8 = ?",
+    "Option1": "54",
+    "Option2": "56",
+    "Option3": "58",
+    "Option4": "64",
+    "Answer": "56"
+  },
+  {
+    "Subject": "Math",
+    "Question": "9 + 13 = ?",
+    "Option1": "20",
+    "Option2": "21",
+    "Option3": "22",
+    "Option4": "23",
+    "Answer": "22"
+  },
+  {
+    "Subject": "Math",
+    "Question": "18 / 2 = ?",
+    "Option1": "7",
+    "Option2": "8",
+    "Option3": "9",
+    "Option4": "10",
+    "Answer": "9"
+  },
+  {
+    "Subject": "Math",
+    "Question": "Cube of 3?",
+    "Option1": "9",
+    "Option2": "18",
+    "Option3": "27",
+    "Option4": "36",
+    "Answer": "27"
+  },
+  {
+    "Subject": "Math",
+    "Question": "50% of 80?",
+    "Option1": "20",
+    "Option2": "30",
+    "Option3": "40",
+    "Option4": "50",
+    "Answer": "40"
+  },
+  {
+    "Subject": "Math",
+    "Question": "11 \u00d7 11 = ?",
+    "Option1": "111",
+    "Option2": "121",
+    "Option3": "131",
+    "Option4": "141",
+    "Answer": "121"
+  },
+  {
+    "Subject": "Math",
+    "Question": "Prime number?",
+    "Option1": "21",
+    "Option2": "27",
+    "Option3": "29",
+    "Option4": "33",
+    "Answer": "29"
+  },
+  {
+    "Subject": "Math",
+    "Question": "180\u00b0 is called?",
+    "Option1": "Right",
+    "Option2": "Acute",
+    "Option3": "Straight",
+    "Option4": "Obtuse",
+    "Answer": "Straight"
+  },
+  {
+    "Subject": "Math",
+    "Question": "Value of 0!",
+    "Option1": "0",
+    "Option2": "1",
+    "Option3": "2",
+    "Option4": "Undefined",
+    "Answer": "1"
+  },
+  {
+    "Subject": "Math",
+    "Question": "1 km = ? m",
+    "Option1": "10",
+    "Option2": "100",
+    "Option3": "1000",
+    "Option4": "10000",
+    "Answer": "1000"
+  },
+  {
+    "Subject": "Math",
+    "Question": "2\u00b3 = ?",
+    "Option1": "4",
+    "Option2": "6",
+    "Option3": "8",
+    "Option4": "16",
+    "Answer": "8"
+  },
+  {
+    "Subject": "Science",
+    "Question": "Planet known as Red Planet?",
+    "Option1": "Earth",
+    "Option2": "Mars",
+    "Option3": "Venus",
+    "Option4": "Jupiter",
+    "Answer": "Mars"
+  },
+  {
+    "Subject": "Science",
+    "Question": "H2O is?",
+    "Option1": "Hydrogen",
+    "Option2": "Water",
+    "Option3": "Oxygen",
+    "Option4": "Helium",
+    "Answer": "Water"
+  },
+  {
+    "Subject": "Science",
+    "Question": "Human heart has how many chambers?",
+    "Option1": "2",
+    "Option2": "3",
+    "Option3": "4",
+    "Option4": "5",
+    "Answer": "4"
+  },
+  {
+    "Subject": "Science",
+    "Question": "Gas used in breathing?",
+    "Option1": "Nitrogen",
+    "Option2": "Carbon Dioxide",
+    "Option3": "Oxygen",
+    "Option4": "Hydrogen",
+    "Answer": "Oxygen"
+  },
+  {
+    "Subject": "Science",
+    "Question": "Boiling point of water?",
+    "Option1": "90\u00b0C",
+    "Option2": "95\u00b0C",
+    "Option3": "100\u00b0C",
+    "Option4": "110\u00b0C",
+    "Answer": "100\u00b0C"
+  },
+  {
+    "Subject": "Science",
+    "Question": "Largest planet?",
+    "Option1": "Earth",
+    "Option2": "Mars",
+    "Option3": "Jupiter",
+    "Option4": "Saturn",
+    "Answer": "Jupiter"
+  },
+  {
+    "Subject": "Science",
+    "Question": "Sun is a?",
+    "Option1": "Planet",
+    "Option2": "Star",
+    "Option3": "Galaxy",
+    "Option4": "Comet",
+    "Answer": "Star"
+  },
+  {
+    "Subject": "Science",
+    "Question": "Plants prepare food by?",
+    "Option1": "Respiration",
+    "Option2": "Photosynthesis",
+    "Option3": "Digestion",
+    "Option4": "Evaporation",
+    "Answer": "Photosynthesis"
+  },
+  {
+    "Subject": "Science",
+    "Question": "SI unit of force?",
+    "Option1": "Joule",
+    "Option2": "Newton",
+    "Option3": "Pascal",
+    "Option4": "Watt",
+    "Answer": "Newton"
+  },
+  {
+    "Subject": "Science",
+    "Question": "Blood is pumped by?",
+    "Option1": "Lungs",
+    "Option2": "Brain",
+    "Option3": "Heart",
+    "Option4": "Kidney",
+    "Answer": "Heart"
+  },
+  {
+    "Subject": "Science",
+    "Question": "Speed of light unit?",
+    "Option1": "m/s",
+    "Option2": "km/h",
+    "Option3": "N",
+    "Option4": "J",
+    "Answer": "m/s"
+  },
+  {
+    "Subject": "Science",
+    "Question": "Chemical symbol of Gold?",
+    "Option1": "Ag",
+    "Option2": "Au",
+    "Option3": "Gd",
+    "Option4": "Go",
+    "Answer": "Au"
+  },
+  {
+    "Subject": "Science",
+    "Question": "Earth revolves around?",
+    "Option1": "Moon",
+    "Option2": "Mars",
+    "Option3": "Sun",
+    "Option4": "Jupiter",
+    "Answer": "Sun"
+  },
+  {
+    "Subject": "Science",
+    "Question": "Vitamin from sunlight?",
+    "Option1": "A",
+    "Option2": "B",
+    "Option3": "C",
+    "Option4": "D",
+    "Answer": "D"
+  },
+  {
+    "Subject": "Science",
+    "Question": "Nearest star to Earth?",
+    "Option1": "Proxima",
+    "Option2": "Sun",
+    "Option3": "Sirius",
+    "Option4": "Alpha",
+    "Answer": "Sun"
+  },
+  {
+    "Subject": "Science",
+    "Question": "Acid in vinegar?",
+    "Option1": "Citric",
+    "Option2": "Acetic",
+    "Option3": "Sulfuric",
+    "Option4": "Hydrochloric",
+    "Answer": "Acetic"
+  },
+  {
+    "Subject": "Science",
+    "Question": "Freezing point of water?",
+    "Option1": "0\u00b0C",
+    "Option2": "10\u00b0C",
+    "Option3": "32\u00b0C",
+    "Option4": "-10\u00b0C",
+    "Answer": "0\u00b0C"
+  },
+  {
+    "Subject": "Science",
+    "Question": "Electric current unit?",
+    "Option1": "Volt",
+    "Option2": "Ohm",
+    "Option3": "Ampere",
+    "Option4": "Watt",
+    "Answer": "Ampere"
+  },
+  {
+    "Subject": "Science",
+    "Question": "DNA stands for?",
+    "Option1": "Deoxy...Acid",
+    "Option2": "Dynamic...",
+    "Option3": "Digital...",
+    "Option4": "None",
+    "Answer": "Deoxy...Acid"
+  },
+  {
+    "Subject": "Science",
+    "Question": "Center of atom?",
+    "Option1": "Electron",
+    "Option2": "Nucleus",
+    "Option3": "Proton",
+    "Option4": "Shell",
+    "Answer": "Nucleus"
+  },
+  {
+    "Subject": "Computer",
+    "Question": "CPU stands for?",
+    "Option1": "Central Process Unit",
+    "Option2": "Central Processing Unit",
+    "Option3": "Computer Processing Unit",
+    "Option4": "Core Processing Unit",
+    "Answer": "Central Processing Unit"
+  },
+  {
+    "Subject": "Computer",
+    "Question": "HTML stands for?",
+    "Option1": "Hyper Text Markup Language",
+    "Option2": "High Text Machine Language",
+    "Option3": "Hyperlink Mark Language",
+    "Option4": "Home Tool Markup Language",
+    "Answer": "Hyper Text Markup Language"
+  },
+  {
+    "Subject": "Computer",
+    "Question": "CSS stands for?",
+    "Option1": "Creative Style Sheets",
+    "Option2": "Cascading Style Sheets",
+    "Option3": "Computer Style Sheets",
+    "Option4": "Colorful Style Sheets",
+    "Answer": "Cascading Style Sheets"
+  },
+  {
+    "Subject": "Computer",
+    "Question": "JavaScript is mainly used for?",
+    "Option1": "Styling",
+    "Option2": "Database",
+    "Option3": "Interactivity",
+    "Option4": "Operating System",
+    "Answer": "Interactivity"
+  },
+  {
+    "Subject": "Computer",
+    "Question": "Binary uses which digits?",
+    "Option1": "1-9",
+    "Option2": "0 and 1",
+    "Option3": "0-2",
+    "Option4": "A and B",
+    "Answer": "0 and 1"
+  },
+  {
+    "Subject": "Computer",
+    "Question": "RAM is?",
+    "Option1": "Permanent",
+    "Option2": "Temporary Memory",
+    "Option3": "Disk",
+    "Option4": "CPU",
+    "Answer": "Temporary Memory"
+  },
+  {
+    "Subject": "Computer",
+    "Question": "Brain of computer?",
+    "Option1": "Monitor",
+    "Option2": "Keyboard",
+    "Option3": "CPU",
+    "Option4": "RAM",
+    "Answer": "CPU"
+  },
+  {
+    "Subject": "Computer",
+    "Question": "WWW stands for?",
+    "Option1": "World Wide Web",
+    "Option2": "World Web Wide",
+    "Option3": "Wide World Web",
+    "Option4": "Web World Wide",
+    "Answer": "World Wide Web"
+  },
+  {
+    "Subject": "Computer",
+    "Question": "Shortcut to copy?",
+    "Option1": "Ctrl+V",
+    "Option2": "Ctrl+C",
+    "Option3": "Ctrl+X",
+    "Option4": "Ctrl+Z",
+    "Answer": "Ctrl+C"
+  },
+  {
+    "Subject": "Computer",
+    "Question": "Extension of JavaScript file?",
+    "Option1": " .java",
+    "Option2": ".js",
+    "Option3": ".css",
+    "Option4": ".html",
+    "Answer": ".js"
+  },
+  {
+    "Subject": "Computer",
+    "Question": "Which is an input device?",
+    "Option1": "Monitor",
+    "Option2": "Printer",
+    "Option3": "Keyboard",
+    "Option4": "Speaker",
+    "Answer": "Keyboard"
+  },
+  {
+    "Subject": "Computer",
+    "Question": "Which is an output device?",
+    "Option1": "Mouse",
+    "Option2": "Scanner",
+    "Option3": "Monitor",
+    "Option4": "Microphone",
+    "Answer": "Monitor"
+  },
+  {
+    "Subject": "Computer",
+    "Question": "Python is a?",
+    "Option1": "Browser",
+    "Option2": "Language",
+    "Option3": "OS",
+    "Option4": "Database",
+    "Answer": "Language"
+  },
+  {
+    "Subject": "Computer",
+    "Question": "HTML file extension?",
+    "Option1": ".js",
+    "Option2": ".css",
+    "Option3": ".html",
+    "Option4": ".exe",
+    "Answer": ".html"
+  },
+  {
+    "Subject": "Computer",
+    "Question": "SQL is used for?",
+    "Option1": "Gaming",
+    "Option2": "Database",
+    "Option3": "Drawing",
+    "Option4": "Editing",
+    "Answer": "Database"
+  },
+  {
+    "Subject": "Computer",
+    "Question": "Full form of USB?",
+    "Option1": "Universal Serial Bus",
+    "Option2": "United System Bus",
+    "Option3": "Universal System Board",
+    "Option4": "None",
+    "Answer": "Universal Serial Bus"
+  },
+  {
+    "Subject": "Computer",
+    "Question": "Cache memory is?",
+    "Option1": "Slow",
+    "Option2": "Fast",
+    "Option3": "External",
+    "Option4": "Optical",
+    "Answer": "Fast"
+  },
+  {
+    "Subject": "Computer",
+    "Question": "Which stores web pages?",
+    "Option1": "Browser",
+    "Option2": "Server",
+    "Option3": "Monitor",
+    "Option4": "Keyboard",
+    "Answer": "Server"
+  },
+  {
+    "Subject": "Computer",
+    "Question": "Operating System example?",
+    "Option1": "Windows",
+    "Option2": "Chrome",
+    "Option3": "HTML",
+    "Option4": "Python",
+    "Answer": "Windows"
+  },
+  {
+    "Subject": "Computer",
+    "Question": "1 Byte = ? bits",
+    "Option1": "4",
+    "Option2": "8",
+    "Option3": "16",
+    "Option4": "32",
+    "Answer": "8"
+  }
+]
