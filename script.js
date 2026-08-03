@@ -30,6 +30,7 @@ const showRegisterBtn = document.getElementById("showRegisterBtn");
 const logoutBtn = document.getElementById("logoutBtn");
 const welcomeUser = document.getElementById("welcomeUser");
 const userName = document.getElementById("userName");
+const passwordToggles = document.querySelectorAll(".password-toggle");
 
 //Quiz setup page
 const setupSection = document.getElementById("setup");
@@ -643,3 +644,16 @@ async function sendResultEmail() {
         alert("Unable to send email.");
     }
 }
+
+passwordToggles.forEach(function(toggle){
+    toggle.addEventListener("click",function(){
+        const input =toggle.previousElementSibling;
+        const eye =toggle.querySelector(".eye-icon");
+        if(input.type==="password"){
+            input.type="text";
+            eye.textContent="🙈";}
+        else{
+            input.type="password";
+            eye.textContent="👁️";}
+    });
+});
